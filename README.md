@@ -1,6 +1,12 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/skytz-software-labs.appspot.com/o/api-512d36c09662682717108a38bbb5c57d.gif?alt=media&token=fffb6387-b6dd-4c14-9441-88940f1e92a2)](https://nivritgupta.github.io/nivritgupta/)
 <h1 align="center">Hi 👋, I'm Nivrit Gupta</h1>
 <h3 align="center">A passionate mobile application developer</h3>
+
+hi, i'm, a passionate self-taught full Mobile Application developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+
+I'm an Expert Mobile App architect/Lead developer with 10+ years of experience in designing and developing Native and Hybrid mobile/web/ERP solutions for startup and large corporations. . During the course of my professional career, I had the chance to work for a variety of different companies and clients including Mercedes Benz, Kia Motors,  lonely planet, Zoopla Home, and many other companies as well.
+
+
+
 <img align="right" alt="Coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/skytz-software-labs.appspot.com/o/programmer.gif?alt=media&token=bbeb34ac-eb22-406d-9660-399fbb244171">
 
 
