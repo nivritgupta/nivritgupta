@@ -1,9 +1,9 @@
 /*!
  * 
  *   typed.js - A JavaScript Typing Animation Library
- *   Author: Matt Boldt <me@mattboldt.com>
+ *   Author: nivrit gupta <gupta.nivrit@gmail.com>
  *   Version: v2.0.11
- *   Url: https://github.com/mattboldt/typed.js
+ *   Url: https://github.com/nivritgupta
  *   License(s): MIT
  * 
  */
